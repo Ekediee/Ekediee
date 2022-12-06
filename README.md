@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ekeoma E. AGU.</h1>
+<h3 align="center">A result-driven and detail oriented Data Analyst with strong passion for deriving insights from data to guide organisation through a data-driven decision making process.</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <!--
 **Ekediee/Ekediee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
