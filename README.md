@@ -7,7 +7,7 @@ Holds a Bachelor of Science (B.Sc) degree in Computer Science, and obtained the 
 
 -  [Portfolio Projects](#portfolio-projects)
    -  [Consoto Sales' Analysis](#consoto-sales-analysis)
-   -  [Divvy Bike Share User Analysis](#divvy-bike-share-user-analysis)
+   -  [Divvy Bike Share User Analysis](#divvy-bike-analysis)
    -  [Google Scholar Profile Scraper](#google-scholar-profile-scraper)
 
 ## Portfolio Projects
